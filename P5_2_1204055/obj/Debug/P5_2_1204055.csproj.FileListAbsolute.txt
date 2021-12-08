@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055\obj\Debug\P5_2_1204055.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055\obj\Debug\P5_2_1204055.DigitalClock.resources
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055\obj\Debug\P5_2_1204055.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055\obj\Debug\P5_2_1204055.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055\bin\Debug\P5_2_1204055.dll
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055\bin\Debug\P5_2_1204055.pdb
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055\obj\Debug\P5_2_1204055.dll
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055\obj\Debug\P5_2_1204055.pdb

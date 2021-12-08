@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\bin\Debug\P5_2_1204055_TestClock.exe.config
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\bin\Debug\P5_2_1204055_TestClock.exe
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\bin\Debug\P5_2_1204055_TestClock.pdb
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\bin\Debug\P5_2_1204055.dll
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\bin\Debug\P5_2_1204055.pdb
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\obj\Debug\P5_2_1204055_TestClock.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\obj\Debug\P5_2_1204055_TestClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\obj\Debug\P5_2_1204055_TestClock.Form1.resources
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\obj\Debug\P5_2_1204055_TestClock.Properties.Resources.resources
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\obj\Debug\P5_2_1204055_TestClock.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\obj\Debug\P5_2_1204055_TestClock.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\obj\Debug\P5_2_1204055_TestClock.csproj.CopyComplete
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\obj\Debug\P5_2_1204055_TestClock.exe
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_2_1204055_TestClock\obj\Debug\P5_2_1204055_TestClock.pdb
